@@ -36,3 +36,4 @@ else if (answer.operator === "Subtraction") {
   else{
   console.log("You choose right operator")
   }
+  console.log("THE End")

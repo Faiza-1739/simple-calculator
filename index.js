@@ -34,3 +34,4 @@ else if (answer.operator === "Exponent") {
 else {
     console.log("You choose right operator");
 }
+console.log("THE End");
